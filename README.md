@@ -1,5 +1,4 @@
-# nlp wellington Residents Survey
-Natural Language Processing for the Wellington Residents Survey 
+# Natural Language Processing for the Wellington Residents Survey 
 
 The purpose of this project is to analyse unused text data from the Wellington Residence survey. Currently the only data from the survey used is numerical. The purpose of this piece of work is to identify the top things that people are answering in the text answers. 
 
